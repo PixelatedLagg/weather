@@ -1,0 +1,14 @@
+.main {
+    margin: 10%;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: #35605A;
+}
+.main h1, .main p {
+    color: #D8E4FF;
+}
+.desc {
+    padding: 20px;
+    border-radius: 5px;
+    border: 3px solid #D8E4FF;
+}
